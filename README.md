@@ -32,12 +32,7 @@
  
 - Desenvolvedor Back End Java na Empresa NetZone Tecnologia
 
- <p>Responsável por atuar no Back End utilizando tecnologias como o Spring Boot, Java Swing entre outros. construção do site contribui para uma melhor visibilidade do projeto tanto para os envolvidos quanto para potenciais parceiros.
- </p>
- 
- - Instrutor de Programação voluntário, Python | Setembro de 2022 - o momento
- 
- <p>Atuando, juntamente com os demais professores da matéria, no ensino de programação em python, por meio de elaboração de conteúdos e ministração de aulas semanais. </p>
+ <p>Responsável por atuar no Back End utilizando tecnologias como o Spring Boot, Java Swing entre outros. 
  
  <br />
  
