@@ -42,7 +42,7 @@
 
 </details>
 
-<h2> Skills que conheço... </h2>
+<h2> Ferramentas que utilizo... </h2>
 
 <div>
 
