@@ -63,8 +63,3 @@
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 </div>
-
-<div>
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-CoutinhoR&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
-</div>
